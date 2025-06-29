@@ -1,2 +1,2 @@
 USE alx_book_store;
-SELECT * FROM Books;
+SELECT Books FROM INFORMATION_SCHEMA.TABLES;
